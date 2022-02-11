@@ -1,1 +1,1 @@
-# Learning-Python-is-easy-now
+# Learning Python is easy now
